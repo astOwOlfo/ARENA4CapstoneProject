@@ -464,7 +464,7 @@ def compute_and_plot_logit_lens_probabilities_in_different_languages(
 
 compute_and_plot_logit_lens_probabilities_in_different_languages(
     sample_size = 100,
-    model_names = ["Qwen/Qwen-7B", "meta-llama/Llama-2-7b-hf", "mistral-7b", "gemma-2-7b"],
+    model_names = ["Qwen/Qwen-7B", "meta-llama/Llama-2-7b-hf", "mistral-7b", "google/gemma-2-9b"],
     dataset_types = ["translation", "repetition", "cloze"],
     languages = LANGUAGES,
     device = device
