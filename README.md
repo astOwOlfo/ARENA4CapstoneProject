@@ -28,3 +28,7 @@ TO DO: Run this on bigger samples. The error bars are too wide. Note, however, t
 ![plot](plots/2.png)
 ![plot](plots/3.png)
 ![plot](plots/4.png)
+
+## Structure
+
+The replication of the paper is in `experiments.py`. The additional experiments we run are in `run_experiments.py`.
