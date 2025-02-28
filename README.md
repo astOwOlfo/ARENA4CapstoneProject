@@ -22,9 +22,8 @@ We observe that, at late layers, logit lens assigns high probabilites to tokens 
 On middle layers, the model often assigns high probabilities to the same tokens translated to Enlgish and Chinese.
 This suggests the model might "think" in English or Chinese, and then translate its output to the language the prompt is in.
 
-TO DO: Run this on bigger samples. The error bars are too wide.
+TO DO: Run this on bigger samples. The error bars are too wide. Note, however, that since there are many datapoints, the pattern is most probably still here despite the error bars being wide.
 
-TO DO: plots
 ![plot](figures/1.png)
 ![plot](figures/2.png)
 ![plot](figures/3.png)
