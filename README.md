@@ -24,7 +24,7 @@ This suggests the model might "think" in English or Chinese, and then translate 
 
 TO DO: Run this on bigger samples. The error bars are too wide. Note, however, that since there are many datapoints, the pattern is most probably still here despite the error bars being wide.
 
-![plot](figures/1.png)
-![plot](figures/2.png)
-![plot](figures/3.png)
-![plot](figures/4.png)
+![plot](plots/1.png)
+![plot](plots/2.png)
+![plot](plots/3.png)
+![plot](plots/4.png)
